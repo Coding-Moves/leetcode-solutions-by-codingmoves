@@ -93,3 +93,7 @@ Thanks for visiting — **keep coding and growing!**
 ---
 > “Logic will get you from A to B. Imagination will take you everywhere.” — *Albert Einstein*
  ---
+
+## Coding Moves Academy
+
+These practice solutions are part of [Coding Moves Academy](https://codingmoves.netlify.app/academy/). They are learning material; check each solution and its linked problem for the current implementation and constraints.
