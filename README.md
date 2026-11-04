@@ -96,6 +96,6 @@ Thanks for visiting — **keep coding and growing!**
 
 ## Coding Moves Academy and Open Source
 
-These practice solutions are part of [Coding Moves Academy](https://codingmoves.netlify.app/academy/) and the [Open Source](https://codingmoves.netlify.app/open-source/) collection. They are learning material; check each solution and its linked problem for the current implementation and constraints.
+These practice solutions are part of [Coding Moves Academy](https://codingmoves.com/academy/) and the [Open Source](https://codingmoves.com/open-source/) collection. They are learning material; check each solution and its linked problem for the current implementation and constraints.
 
 The original solution code in this repository is available under the [MIT License](LICENSE).
